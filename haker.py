@@ -5,7 +5,7 @@ Created on Fri Jun  8 15:06:46 2018
 @author: n34873
 """
 
-
+import numpy as np
 import cv2
 
 vc = cv2.VideoCapture(0)
